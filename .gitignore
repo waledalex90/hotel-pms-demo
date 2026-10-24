@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+*.log
+.env
+.env.*
+.vercel
+dist
+docs/portfolio/hotel-pms/raw
